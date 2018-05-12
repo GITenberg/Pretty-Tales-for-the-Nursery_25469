@@ -1,0 +1,33 @@
+_repo: Pretty-Tales-for-the-Nursery_25469
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+covers:
+- cover_type: archival
+  image_path: 25469-h/images/img.coverpt.jpg
+creator:
+  author:
+    agent_name: Thompson, Isabel
+    gutenberg_agent_id: '31360'
+    url: http://www.gutenberg.org/2009/agents/31360
+description: ''
+gutenberg_issued: '2008-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: Pretty Tales for the Nursery
+url: http://www.gutenberg.org/ebooks/25469
